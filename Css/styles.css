@@ -22,15 +22,15 @@ html {
 }
 
 #inicio {
-    background-image: url('/img/Princesa.jpg');
+    background-image: url('/Princesa.jpg');
 }
 
 #video {
-    background-image: url('/img/Globos.jpg');
+    background-image: url('/Globos.jpg');
 }
 
 #inspiracion {
-    background-image: url('/img/Nezuco.png');
+    background-image: url('/Nezuco.png');
 }
 
 .contenido {
